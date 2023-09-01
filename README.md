@@ -1,5 +1,5 @@
 # Online-Learning-Platform
-Online learning Platform is an accessible pathway to expanding your knowledge. It's a digital realm of courses where you can upskill, gain certifications, and explore various subjects from the comfort of your space.
+This project is an homage to online learning, mirroring the essence of established platforms. Dedicated to realism, it replicates the design and features of popular online learning websites, offering users an authentic educational experience. The goal is to provide learners with a familiar interface to explore courses, earn certifications, and relish the journey of knowledge acquisition.
 
 # View Demo
 Website Link:- https://vishalpopat8.github.io/Online-Learning-Platform/
